@@ -1,0 +1,22 @@
+.resume {
+    background-color: white;
+    width: 60%;
+    margin: 5% auto;
+    padding: 25px;
+}
+
+.resume h2 {
+    margin: 5px 0 25px 0;
+}
+
+.job {
+    color: var(--accent);
+    padding-bottom: 10px;
+    margin-bottom: -10px;
+    border-bottom: 1px solid var(--border);
+}
+
+.details {
+    font-weight: 300;
+    font-size: 0.9em;
+}
