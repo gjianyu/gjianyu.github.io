@@ -1,8 +1,8 @@
 :root {
     --background: #f5f0ef;
     --primarytext: #0d0d0c;
-    --secondarytext: #343332;
-    --border: #CECAC9;
+    --secondarytext: #817F7E;
+    --border: #D8D4D3;
     --accent: #d33f49;
     --highlight: #F5E6D8;
 }
@@ -30,12 +30,19 @@ h2 {
     text-shadow: 2px 2px var(--highlight);
 }
 
+h3 {
+    font-size: 1.5em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+
 .navbar {
     margin-top: -16px;
     padding: 10px;
     background-color: #fff;
     color: var(--primarytext);
     font-size: 1.5em;
+    font-weight: 400;
 }
 
 .navbar a {

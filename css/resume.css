@@ -9,6 +9,11 @@
     margin: 5px 0 25px 0;
 }
 
+.resume h3 {
+    margin: 25px 0 15px 0;
+    text-shadow: 2px 2px var(--highlight);
+}
+
 .job {
     color: var(--accent);
     padding-bottom: 10px;
@@ -19,4 +24,14 @@
 .details {
     font-weight: 300;
     font-size: 0.9em;
+}
+
+.rating {
+    font-size: 1.1em;
+    margin: 5px 0;
+}
+
+.label {
+    font-weight: 400;
+    color: var(--accent);
 }
